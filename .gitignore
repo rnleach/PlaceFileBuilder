@@ -1,3 +1,6 @@
+# Project / editor files
+*.vim
+
 # Compiled Object files
 *.slo
 *.lo
